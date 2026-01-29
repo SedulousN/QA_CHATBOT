@@ -8,3 +8,4 @@ python-docx
 faiss-cpu
 tiktoken
 sentence-transformers
+
